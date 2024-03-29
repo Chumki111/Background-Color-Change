@@ -12,7 +12,7 @@ This is a simple React application that allows users to change the background co
 - React.js
 - Tailwind CSS
 
-## Live Demo
+## [Live Demo](https://imperfect-journey.surge.sh)
 
 You can try out the live demo [React-Background-Color-Change](https://imperfect-journey.surge.sh)
 
